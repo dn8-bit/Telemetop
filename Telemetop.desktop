@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Name= Telemetop
+Exec=/home/daniel/Desktop/Github/Telemetop/Telemetop/main.py
+Icon=/home/daniel/Desktop/Github/Telemetop/Telemetop/fundointerface.gif
+Type=Application
